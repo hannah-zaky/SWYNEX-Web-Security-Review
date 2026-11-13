@@ -28,7 +28,7 @@ This repository documents a manual security assessment of [OWASP Juice Shop](htt
 | 4 | DOM-based XSS — search field | Medium |
 | 5 | Security Misconfiguration — missing headers / permissive CORS | Low/Medium |
 
-Full details, reproduction steps, and remediation recommendations for each finding are in [`report.docx`](./report.docx).
+Full details, reproduction steps, and remediation recommendations for each finding are in [`web security review report.pdf`](./web-security-review-report.pdf).
 
 ## Repository Structure
 
